@@ -1,0 +1,8 @@
+{
+    "name": "map_Battle_of_Gergovia",
+    "version": "0.0.1",
+    "label": "Battle of Gergovia",
+    "description": "This scenario is created for our tutorial",
+    "dependencies": ["0ad"],
+    "type": "map"
+}
