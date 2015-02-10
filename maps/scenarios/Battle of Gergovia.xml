@@ -18,7 +18,7 @@
 				<Type>ocean</Type>
 				<Colour r="0.294118" g="0.34902" b="0.694118"/>
 				<Tint r="0.27451" g="0.294118" b="0.584314"/>
-				<Height>5</Height>
+				<Height>21.823</Height>
 				<Waviness>4</Waviness>
 				<Murkiness>0.45</Murkiness>
 				<WindAngle>0</WindAngle>
@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="552.503" y="377.922" z="-267.004"/>
-		<Rotation angle="-0.0413472"/>
-		<Declination angle="0.610865"/>
+		<Position x="537.148" y="157.931" z="15.8282"/>
+		<Rotation angle="-0.519161"/>
+		<Declination angle="0.610864"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -46,6 +46,7 @@
   "LockTeams": false,
   "Name": "Battle of Gergovia",
   "PlayerData": [
+    null,
     {
       "Civ": "rome"
     },
@@ -63,6 +64,141 @@
   "RevealMap": false
 }
 ]]></ScriptSettings>
-	<Entities/>
+	<Entities>
+		<Entity uid="7">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="214.55222" z="143.86176"/>
+			<Orientation y="-0.335"/>
+			<Actor seed="9364"/>
+		</Entity>
+		<Entity uid="8">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="204.9362" z="161.50065"/>
+			<Orientation y="2.81388"/>
+			<Actor seed="44426"/>
+		</Entity>
+		<Entity uid="9">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="232.81284" z="174.66871"/>
+			<Orientation y="-0.2157"/>
+			<Actor seed="22052"/>
+		</Entity>
+		<Entity uid="10">
+			<Template>gaia/flora_tree_oak_large</Template>
+			<Player>0</Player>
+			<Position x="217.57206" z="165.95325"/>
+			<Orientation y="-1.20282"/>
+			<Actor seed="27446"/>
+		</Entity>
+		<Entity uid="11">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="216.48148" z="202.88141"/>
+			<Orientation y="2.63813"/>
+			<Actor seed="19564"/>
+		</Entity>
+		<Entity uid="12">
+			<Template>structures/rome_siege_wall_gate</Template>
+			<Player>0</Player>
+			<Position x="680.75751" z="176.45197"/>
+			<Orientation y="0.67423"/>
+			<Obstruction group="14"/>
+			<Actor seed="57516"/>
+		</Entity>
+		<Entity uid="14">
+			<Template>structures/rome_siege_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="696.61316" z="163.97522"/>
+			<Orientation y="-2.43342"/>
+			<Actor seed="4350"/>
+		</Entity>
+		<Entity uid="15">
+			<Template>structures/rome_siege_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="648.56897" z="202.25855"/>
+			<Orientation y="-2.44524"/>
+			<Actor seed="35210"/>
+		</Entity>
+		<Entity uid="17">
+			<Template>structures/rome_siege_wall_medium</Template>
+			<Player>0</Player>
+			<Position x="657.65546" z="194.92286"/>
+			<Orientation y="-2.43296"/>
+			<Obstruction group="14" group2="15"/>
+			<Actor seed="5826"/>
+		</Entity>
+		<Entity uid="18">
+			<Template>structures/rome_siege_wall_long</Template>
+			<Player>0</Player>
+			<Position x="710.63044" z="179.68928"/>
+			<Orientation y="2.31109"/>
+			<Obstruction group="14" group2="22"/>
+			<Actor seed="48894"/>
+		</Entity>
+		<Entity uid="19">
+			<Template>structures/rome_siege_wall_long</Template>
+			<Player>0</Player>
+			<Position x="663.55097" z="216.43265"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="15" group2="23"/>
+			<Actor seed="61998"/>
+		</Entity>
+		<Entity uid="20">
+			<Template>structures/rome_siege_wall_long</Template>
+			<Player>0</Player>
+			<Position x="688.75428" z="241.6674"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="23"/>
+			<Actor seed="59172"/>
+		</Entity>
+		<Entity uid="21">
+			<Template>structures/rome_siege_wall_long</Template>
+			<Player>0</Player>
+			<Position x="733.6225" z="204.49973"/>
+			<Orientation y="-0.82673"/>
+			<Obstruction group="22"/>
+			<Actor seed="31888"/>
+		</Entity>
+		<Entity uid="22">
+			<Template>structures/rome_siege_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="745.83655" z="217.42234"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19090"/>
+		</Entity>
+		<Entity uid="23">
+			<Template>structures/rome_siege_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="702.8147" z="255.91526"/>
+			<Orientation y="0.73115"/>
+			<Actor seed="36930"/>
+		</Entity>
+		<Entity uid="24">
+			<Template>structures/rome_siege_wall_gate</Template>
+			<Player>0</Player>
+			<Position x="726.30433" z="235.43482"/>
+			<Orientation y="-2.39213"/>
+			<Actor seed="30720"/>
+		</Entity>
+		<Entity uid="25">
+			<Template>structures/rome_siege_wall_short</Template>
+			<Player>0</Player>
+			<Position x="709.89722" z="250.88758"/>
+			<Orientation y="0.73565"/>
+			<Obstruction group="23"/>
+			<Actor seed="10492"/>
+		</Entity>
+		<Entity uid="26">
+			<Template>structures/rome_siege_wall_short</Template>
+			<Player>0</Player>
+			<Position x="739.2613" z="222.6521"/>
+			<Orientation y="0.77358"/>
+			<Obstruction group="22"/>
+			<Actor seed="19144"/>
+		</Entity>
+	</Entities>
 	<Paths/>
 </Scenario>
