@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="940.491" y="115.435" z="422.706"/>
-		<Rotation angle="-0.0468558"/>
-		<Declination angle="0.498521"/>
+		<Position x="865.684" y="170.546" z="337.614"/>
+		<Rotation angle="0.0590429"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -206,27 +206,6 @@
 			<Orientation y="2.44968"/>
 			<Actor seed="626"/>
 		</Entity>
-		<Entity uid="28">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="912.21222" z="698.77594"/>
-			<Orientation y="1.33628"/>
-			<Actor seed="59022"/>
-		</Entity>
-		<Entity uid="29">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="929.48786" z="697.48566"/>
-			<Orientation y="-1.46862"/>
-			<Actor seed="46564"/>
-		</Entity>
-		<Entity uid="30">
-			<Template>gaia/flora_tree_oak</Template>
-			<Player>0</Player>
-			<Position x="924.90131" z="684.18024"/>
-			<Orientation y="1.53974"/>
-			<Actor seed="21270"/>
-		</Entity>
 		<Entity uid="33">
 			<Template>actor|props/flora/grass_tropical.xml</Template>
 			<Position x="913.6949" z="690.68378"/>
@@ -277,9 +256,90 @@
 		</Entity>
 		<Entity uid="42">
 			<Template>actor|props/flora/bush_tempe_underbrush.xml</Template>
-			<Position x="927.87726" z="698.67304"/>
+			<Position x="926.71174" z="697.67511"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="4986"/>
+		</Entity>
+		<Entity uid="43">
+			<Template>structures/rome_siege_wall_long</Template>
+			<Player>0</Player>
+			<Position x="455.56025" z="239.75956"/>
+			<Orientation y="-0.06983"/>
+			<Obstruction group="63" group2="64"/>
+			<Actor seed="61578"/>
+		</Entity>
+		<Entity uid="44">
+			<Template>structures/rome_siege_wall_long</Template>
+			<Player>0</Player>
+			<Position x="442.71274" z="219.55381"/>
+			<Orientation y="-1.7916"/>
+			<Obstruction group="63" group2="64"/>
+			<Actor seed="12856"/>
+		</Entity>
+		<Entity uid="45">
+			<Template>structures/rome_siege_wall_long</Template>
+			<Player>0</Player>
+			<Position x="475.7191" z="227.92148"/>
+			<Orientation y="1.38314"/>
+			<Obstruction group="63" group2="64"/>
+			<Actor seed="60232"/>
+		</Entity>
+		<Entity uid="46">
+			<Template>structures/rome_siege_wall_gate</Template>
+			<Player>0</Player>
+			<Position x="462.796" z="205.83231"/>
+			<Orientation y="-0.32703"/>
+			<Obstruction group="65" group2="66"/>
+			<Actor seed="28178"/>
+		</Entity>
+		<Entity uid="63">
+			<Template>structures/rome_siege_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="439.07712" z="237.69294"/>
+			<Orientation y="-0.19555"/>
+			<Actor seed="56164"/>
+		</Entity>
+		<Entity uid="64">
+			<Template>structures/rome_siege_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="472.42566" z="244.69632"/>
+			<Orientation y="-0.1757"/>
+			<Actor seed="19858"/>
+		</Entity>
+		<Entity uid="65">
+			<Template>structures/rome_siege_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="447.18747" z="200.6998"/>
+			<Orientation y="2.95658"/>
+			<Actor seed="16960"/>
+		</Entity>
+		<Entity uid="66">
+			<Template>structures/rome_siege_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="480.4289" z="209.9459"/>
+			<Orientation y="2.91553"/>
+			<Actor seed="42606"/>
+		</Entity>
+		<Entity uid="67">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="912.2035" z="696.96973"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="11350"/>
+		</Entity>
+		<Entity uid="68">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="926.26844" z="697.6714"/>
+			<Orientation y="1.43282"/>
+			<Actor seed="33264"/>
+		</Entity>
+		<Entity uid="69">
+			<Template>gaia/flora_tree_oak_aut</Template>
+			<Player>0</Player>
+			<Position x="923.05237" z="683.62726"/>
+			<Orientation y="-0.72437"/>
+			<Actor seed="14626"/>
 		</Entity>
 	</Entities>
 	<Paths/>
