@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="865.684" y="170.546" z="337.614"/>
-		<Rotation angle="0.0590429"/>
-		<Declination angle="0.610865"/>
+		<Position x="606.605" y="166.934" z="116.301"/>
+		<Rotation angle="-1.1055"/>
+		<Declination angle="0.610866"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -137,22 +137,6 @@
 			<Orientation y="2.31109"/>
 			<Obstruction group="14" group2="22"/>
 			<Actor seed="48894"/>
-		</Entity>
-		<Entity uid="19">
-			<Template>structures/rome_siege_wall_long</Template>
-			<Player>0</Player>
-			<Position x="663.55097" z="216.43265"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="15" group2="23"/>
-			<Actor seed="61998"/>
-		</Entity>
-		<Entity uid="20">
-			<Template>structures/rome_siege_wall_long</Template>
-			<Player>0</Player>
-			<Position x="688.75428" z="241.6674"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="23"/>
-			<Actor seed="59172"/>
 		</Entity>
 		<Entity uid="21">
 			<Template>structures/rome_siege_wall_long</Template>
@@ -340,6 +324,204 @@
 			<Position x="923.05237" z="683.62726"/>
 			<Orientation y="-0.72437"/>
 			<Actor seed="14626"/>
+		</Entity>
+		<Entity uid="70">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="703.6941" z="242.43348"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54402"/>
+		</Entity>
+		<Entity uid="71">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="696.80512" z="235.2332"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34198"/>
+		</Entity>
+		<Entity uid="72">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="690.74256" z="228.62247"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54420"/>
+		</Entity>
+		<Entity uid="75">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="663.71686" z="200.04148"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48350"/>
+		</Entity>
+		<Entity uid="76">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="670.4319" z="206.10666"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13138"/>
+		</Entity>
+		<Entity uid="77">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="676.96796" z="212.51981"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22876"/>
+		</Entity>
+		<Entity uid="82">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="693.89179" z="177.03"/>
+			<Orientation y="-0.86385"/>
+			<Actor seed="28508"/>
+		</Entity>
+		<Entity uid="83">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="699.47168" z="184.83655"/>
+			<Orientation y="-0.81211"/>
+			<Actor seed="61164"/>
+		</Entity>
+		<Entity uid="86">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="717.48182" z="205.12308"/>
+			<Orientation y="-0.7947"/>
+			<Actor seed="18670"/>
+		</Entity>
+		<Entity uid="88">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="724.91211" z="211.37641"/>
+			<Orientation y="-0.82888"/>
+			<Actor seed="7946"/>
+		</Entity>
+		<Entity uid="93">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="707.3877" z="193.07251"/>
+			<Orientation y="-0.8537"/>
+			<Actor seed="57608"/>
+		</Entity>
+		<Entity uid="94">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="731.29804" z="219.012"/>
+			<Orientation y="-0.8537"/>
+			<Actor seed="57608"/>
+		</Entity>
+		<Entity uid="95">
+			<Template>structures/rome_siege_wall_gate</Template>
+			<Player>0</Player>
+			<Position x="675.2729" z="227.65"/>
+			<Orientation y="2.34676"/>
+			<Actor seed="8260"/>
+		</Entity>
+		<Entity uid="96">
+			<Template>structures/rome_siege_wall_medium</Template>
+			<Player>0</Player>
+			<Position x="694.5481" z="247.30149"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="23"/>
+			<Actor seed="4050"/>
+		</Entity>
+		<Entity uid="97">
+			<Template>structures/rome_siege_wall_medium</Template>
+			<Player>0</Player>
+			<Position x="656.83454" z="209.91626"/>
+			<Orientation y="2.41868"/>
+			<Obstruction group="15"/>
+			<Actor seed="63164"/>
+		</Entity>
+		<Entity uid="98">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="705.4496" z="219.79319"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31428"/>
+		</Entity>
+		<Entity uid="99">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="707.32587" z="222.1023"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57666"/>
+		</Entity>
+		<Entity uid="100">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="709.12818" z="224.92157"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47896"/>
+		</Entity>
+		<Entity uid="101">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="711.2063" z="227.18586"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33812"/>
+		</Entity>
+		<Entity uid="102">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="713.41901" z="229.41407"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10892"/>
+		</Entity>
+		<Entity uid="103">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="714.26258" z="213.26481"/>
+			<Orientation y="-0.75361"/>
+			<Actor seed="42044"/>
+		</Entity>
+		<Entity uid="104">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="716.3147" z="215.24485"/>
+			<Orientation y="-0.67582"/>
+			<Actor seed="7106"/>
+		</Entity>
+		<Entity uid="105">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="718.43293" z="217.20585"/>
+			<Orientation y="-0.82334"/>
+			<Actor seed="980"/>
+		</Entity>
+		<Entity uid="106">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="720.53675" z="219.32444"/>
+			<Orientation y="-0.95762"/>
+			<Actor seed="60044"/>
+		</Entity>
+		<Entity uid="107">
+			<Template>units/rome_legionnaire_marian</Template>
+			<Player>0</Player>
+			<Position x="723.0152" z="221.88147"/>
+			<Orientation y="-1.00391"/>
+			<Actor seed="14578"/>
+		</Entity>
+		<Entity uid="109">
+			<Template>units/rome_centurio_imperial</Template>
+			<Player>0</Player>
+			<Position x="720.69111" z="228.64322"/>
+			<Orientation y="-2.40352"/>
+			<Actor seed="11782"/>
+		</Entity>
+		<Entity uid="111">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="469.4242" z="217.21308"/>
+			<Orientation y="-1.74183"/>
+			<Actor seed="56232"/>
+		</Entity>
+		<Entity uid="112">
+			<Template>structures/rome_tent</Template>
+			<Player>0</Player>
+			<Position x="449.382" z="231.02656"/>
+			<Orientation y="1.44584"/>
+			<Actor seed="47932"/>
 		</Entity>
 	</Entities>
 	<Paths/>
