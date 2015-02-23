@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="606.605" y="166.934" z="116.301"/>
-		<Rotation angle="-1.1055"/>
-		<Declination angle="0.610866"/>
+		<Position x="408.867" y="150.759" z="424.634"/>
+		<Rotation angle="-0.427434"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -522,6 +522,389 @@
 			<Position x="449.382" z="231.02656"/>
 			<Orientation y="1.44584"/>
 			<Actor seed="47932"/>
+		</Entity>
+		<Entity uid="116">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="241.54511" z="462.12003"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41568"/>
+		</Entity>
+		<Entity uid="117">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="436.20636" z="571.12855"/>
+			<Orientation y="2.02639"/>
+			<Actor seed="11046"/>
+		</Entity>
+		<Entity uid="118">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="438.37613" z="592.66968"/>
+			<Orientation y="1.63938"/>
+			<Actor seed="10068"/>
+		</Entity>
+		<Entity uid="119">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="340.71018" z="629.48078"/>
+			<Orientation y="1.27341"/>
+			<Actor seed="48550"/>
+		</Entity>
+		<Entity uid="120">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="272.42948" z="471.83594"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61168"/>
+		</Entity>
+		<Entity uid="121">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="406.34125" z="544.50263"/>
+			<Orientation y="2.49477"/>
+			<Actor seed="16306"/>
+		</Entity>
+		<Entity uid="122">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="247.8217" z="564.956"/>
+			<Orientation y="2.10296"/>
+			<Actor seed="56178"/>
+		</Entity>
+		<Entity uid="123">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="277.36536" z="594.36713"/>
+			<Orientation y="2.13877"/>
+			<Actor seed="10878"/>
+		</Entity>
+		<Entity uid="124">
+			<Template>structures/gaul_wall_long</Template>
+			<Player>0</Player>
+			<Position x="286.01658" z="483.45728"/>
+			<Orientation y="2.47085"/>
+			<Obstruction group="120" group2="150"/>
+			<Actor seed="45078"/>
+		</Entity>
+		<Entity uid="125">
+			<Template>structures/gaul_wall_long</Template>
+			<Player>0</Player>
+			<Position x="421.58057" z="557.94806"/>
+			<Orientation y="2.47245"/>
+			<Obstruction group="117" group2="121"/>
+			<Actor seed="1478"/>
+		</Entity>
+		<Entity uid="127">
+			<Template>structures/gaul_wall_long</Template>
+			<Player>0</Player>
+			<Position x="356.14316" z="625.6944"/>
+			<Orientation y="0.34763"/>
+			<Obstruction group="119" group2="140"/>
+			<Actor seed="61156"/>
+		</Entity>
+		<Entity uid="130">
+			<Template>structures/gaul_wall_long</Template>
+			<Player>0</Player>
+			<Position x="262.13355" z="579.13135"/>
+			<Orientation y="2.35621"/>
+			<Obstruction group="122" group2="123"/>
+			<Actor seed="15896"/>
+		</Entity>
+		<Entity uid="131">
+			<Template>structures/gaul_wall_long</Template>
+			<Player>0</Player>
+			<Position x="243.10135" z="549.71686"/>
+			<Orientation y="-1.3192"/>
+			<Obstruction group="122" group2="147"/>
+			<Actor seed="63646"/>
+		</Entity>
+		<Entity uid="133">
+			<Template>structures/gaul_wall_long</Template>
+			<Player>0</Player>
+			<Position x="239.42203" z="480.96848"/>
+			<Orientation y="-1.61564"/>
+			<Obstruction group="116" group2="148"/>
+			<Actor seed="1774"/>
+		</Entity>
+		<Entity uid="134">
+			<Template>structures/gaul_wall_long</Template>
+			<Player>0</Player>
+			<Position x="256.13715" z="465.92566"/>
+			<Orientation y="2.8996"/>
+			<Obstruction group="116" group2="120"/>
+			<Actor seed="54292"/>
+		</Entity>
+		<Entity uid="135">
+			<Template>structures/gaul_wall_long</Template>
+			<Player>0</Player>
+			<Position x="387.33152" z="537.54401"/>
+			<Orientation y="2.80404"/>
+			<Obstruction group="121" group2="153"/>
+			<Actor seed="24022"/>
+		</Entity>
+		<Entity uid="137">
+			<Template>structures/gaul_wall_medium</Template>
+			<Player>0</Player>
+			<Position x="440.41382" z="580.30774"/>
+			<Orientation y="1.63221"/>
+			<Obstruction group="117" group2="118"/>
+			<Actor seed="56230"/>
+		</Entity>
+		<Entity uid="138">
+			<Template>structures/gaul_wall_medium</Template>
+			<Player>0</Player>
+			<Position x="427.23182" z="593.36"/>
+			<Orientation y="0.08993"/>
+			<Obstruction group="118" group2="139"/>
+			<Actor seed="33412"/>
+		</Entity>
+		<Entity uid="139">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="411.57181" z="596.58356"/>
+			<Orientation y="0.37726"/>
+			<Actor seed="54926"/>
+		</Entity>
+		<Entity uid="140">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="374.3718" z="618.36255"/>
+			<Orientation y="-1.02369"/>
+			<Actor seed="41878"/>
+		</Entity>
+		<Entity uid="141">
+			<Template>structures/gaul_wall_gate</Template>
+			<Player>0</Player>
+			<Position x="392.64399" z="607.008"/>
+			<Orientation y="-2.60572"/>
+			<Obstruction group="139" group2="140"/>
+			<Actor seed="7474"/>
+		</Entity>
+		<Entity uid="142">
+			<Template>structures/gaul_wall_medium</Template>
+			<Player>0</Player>
+			<Position x="283.74585" z="603.65052"/>
+			<Orientation y="-0.91369"/>
+			<Obstruction group="123" group2="143"/>
+			<Actor seed="30806"/>
+		</Entity>
+		<Entity uid="143">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="292.8509" z="615.2787"/>
+			<Orientation y="-0.44993"/>
+			<Actor seed="27564"/>
+		</Entity>
+		<Entity uid="144">
+			<Template>structures/gaul_wall_short</Template>
+			<Player>0</Player>
+			<Position x="301.86628" z="616.76886"/>
+			<Orientation y="-0.136"/>
+			<Obstruction group="143" group2="145"/>
+			<Actor seed="56782"/>
+		</Entity>
+		<Entity uid="145">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="311.57541" z="619.35444"/>
+			<Orientation y="-0.31365"/>
+			<Actor seed="31572"/>
+		</Entity>
+		<Entity uid="146">
+			<Template>structures/gaul_wall_medium</Template>
+			<Player>0</Player>
+			<Position x="326.35557" z="624.14557"/>
+			<Orientation y="-0.38144"/>
+			<Obstruction group="119" group2="145"/>
+			<Actor seed="44736"/>
+		</Entity>
+		<Entity uid="147">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="238.42798" z="532.56366"/>
+			<Orientation y="-1.50071"/>
+			<Actor seed="39504"/>
+		</Entity>
+		<Entity uid="148">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="236.51606" z="501.37919"/>
+			<Orientation y="-1.59751"/>
+			<Actor seed="40032"/>
+		</Entity>
+		<Entity uid="149">
+			<Template>structures/gaul_wall_medium</Template>
+			<Player>0</Player>
+			<Position x="237.18516" z="516.97223"/>
+			<Orientation y="-1.52146"/>
+			<Obstruction group="147" group2="148"/>
+			<Actor seed="18462"/>
+		</Entity>
+		<Entity uid="150">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="300.56373" z="493.73328"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="49542"/>
+		</Entity>
+		<Entity uid="151">
+			<Template>structures/gaul_wall_long</Template>
+			<Player>0</Player>
+			<Position x="315.06159" z="506.7399"/>
+			<Orientation y="2.45702"/>
+			<Obstruction group="150" group2="154"/>
+			<Actor seed="56506"/>
+		</Entity>
+		<Entity uid="153">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="369.4853" z="530.66272"/>
+			<Orientation y="2.75626"/>
+			<Actor seed="55396"/>
+		</Entity>
+		<Entity uid="154">
+			<Template>structures/gaul_wall_tower</Template>
+			<Player>0</Player>
+			<Position x="331.35267" z="517.85602"/>
+			<Orientation y="2.59202"/>
+			<Actor seed="5398"/>
+		</Entity>
+		<Entity uid="155">
+			<Template>structures/gaul_wall_gate</Template>
+			<Player>0</Player>
+			<Position x="350.31116" z="524.65693"/>
+			<Orientation y="-0.299"/>
+			<Obstruction group="153" group2="154"/>
+			<Actor seed="17278"/>
+		</Entity>
+		<Entity uid="156">
+			<Template>structures/gaul_market</Template>
+			<Player>0</Player>
+			<Position x="343.77308" z="614.19074"/>
+			<Orientation y="2.47387"/>
+			<Obstruction group="119"/>
+			<Actor seed="906"/>
+		</Entity>
+		<Entity uid="157">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="365.45176" z="608.77735"/>
+			<Orientation y="2.03571"/>
+			<Actor seed="48360"/>
+		</Entity>
+		<Entity uid="158">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="323.27323" z="609.13056"/>
+			<Orientation y="2.88004"/>
+			<Actor seed="63828"/>
+		</Entity>
+		<Entity uid="159">
+			<Template>structures/gaul_civil_centre</Template>
+			<Player>0</Player>
+			<Position x="291.2476" z="536.48755"/>
+			<Orientation y="0.8662"/>
+			<Actor seed="61552"/>
+		</Entity>
+		<Entity uid="160">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="354.70051" z="580.75995"/>
+			<Orientation y="8.55054"/>
+			<Actor seed="7976"/>
+		</Entity>
+		<Entity uid="161">
+			<Template>structures/gaul_tavern</Template>
+			<Player>0</Player>
+			<Position x="309.50834" z="572.47913"/>
+			<Orientation y="-3.12002"/>
+			<Actor seed="29278"/>
+		</Entity>
+		<Entity uid="162">
+			<Template>structures/gaul_barracks</Template>
+			<Player>0</Player>
+			<Position x="384.1291" z="571.83625"/>
+			<Orientation y="-0.91178"/>
+			<Actor seed="47582"/>
+		</Entity>
+		<Entity uid="163">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="310.81186" z="604.7021"/>
+			<Orientation y="2.81333"/>
+			<Actor seed="41688"/>
+		</Entity>
+		<Entity uid="164">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="313.79932" z="585.65564"/>
+			<Orientation y="0.0498"/>
+			<Actor seed="37948"/>
+		</Entity>
+		<Entity uid="165">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="300.25419" z="594.70276"/>
+			<Orientation y="1.40957"/>
+			<Actor seed="58880"/>
+		</Entity>
+		<Entity uid="166">
+			<Template>structures/gaul_storehouse</Template>
+			<Player>0</Player>
+			<Position x="251.74997" z="479.47214"/>
+			<Orientation y="0.02588"/>
+			<Actor seed="2050"/>
+		</Entity>
+		<Entity uid="167">
+			<Template>structures/gaul_farmstead</Template>
+			<Player>0</Player>
+			<Position x="271.86023" z="493.20798"/>
+			<Orientation y="-2.98583"/>
+			<Obstruction group="150"/>
+			<Actor seed="53154"/>
+		</Entity>
+		<Entity uid="168">
+			<Template>structures/gaul_temple</Template>
+			<Player>0</Player>
+			<Position x="280.5782" z="566.9449"/>
+			<Orientation y="2.01818"/>
+			<Actor seed="26570"/>
+		</Entity>
+		<Entity uid="169">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="249.63663" z="509.64676"/>
+			<Orientation y="1.55593"/>
+			<Actor seed="10588"/>
+		</Entity>
+		<Entity uid="170">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="274.72275" z="514.39496"/>
+			<Orientation y="-2.53862"/>
+			<Actor seed="6632"/>
+		</Entity>
+		<Entity uid="171">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="302.24369" z="523.2981"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47742"/>
+		</Entity>
+		<Entity uid="172">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="343.15458" z="572.9781"/>
+			<Orientation y="2.61812"/>
+			<Actor seed="42488"/>
+		</Entity>
+		<Entity uid="173">
+			<Template>structures/gaul_house</Template>
+			<Player>0</Player>
+			<Position x="337.08448" z="587.32465"/>
+			<Orientation y="0.6891"/>
+			<Actor seed="36924"/>
 		</Entity>
 	</Entities>
 	<Paths/>
