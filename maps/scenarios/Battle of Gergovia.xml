@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="966.063" y="55.4458" z="371.001"/>
-		<Rotation angle="-1.28524"/>
+		<Position x="439.176" y="99.5357" z="795.424"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -46,7 +46,6 @@
   "LockTeams": false,
   "Name": "Battle of Gergovia",
   "PlayerData": [
-    null,
     {
       "Civ": "rome"
     },
@@ -54,7 +53,7 @@
       "Civ": "cart"
     },
     {
-      "Civ": "celt"
+      "Civ": "gaul"
     },
     {
       "Civ": "iber"
